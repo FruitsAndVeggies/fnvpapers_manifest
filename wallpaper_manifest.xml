@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wallpapers>
-	<category id="main" name="Main">
+	<category id="cr5315" name="cr5315">
+		<wallpaper
+			url="http://cr5315.com/FNV/wallpapers/fnv_34.png"
+			name="Bokeh"
+			author="cr5315" />
+		<wallpaper
+			url="http://cr5315.com/FNV/wallpapers/fnv_35.png"
+			name="Glass"
+			author="cr5315" />
+		<wallpaper
+			url="http://cr5315.com/FNV/wallpapers/fnv_36.png"
+			name="Neon"
+			author="cr5315" />
+	</category>
+	<category id="despyse" name="Despyse">
+		<wallpaper 
+			url="http://cr5315.com/FNV/wallpapers/fnv_19.png"
+			name="A Mission"
+			author="Despyse"  />
+		<wallpaper 
+			url="http://cr5315.com/FNV/wallpapers/fnv_23.png"
+			name=""
+			author="Despyse"  />
+		<wallpaper 
+			url="http://cr5315.com/FNV/wallpapers/fnv_24.png"
+			name=""
+			author="Despyse"  />
+	</category>
+	<category id="knokfirst" name="knokfirst">
 		<wallpaper 
 			url="http://cr5315.com/FNV/wallpapers/fnv_1.png"
 			name="FNV"
@@ -69,26 +97,6 @@
 			url="http://cr5315.com/FNV/wallpapers/fnv_17.png"
 			name="Nexus Light Alt"
 			author="knokfirst"  />
-		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_18.png"  />
-		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_19.png"
-			name="A Mission"
-			author="Despyse"  />
-		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_20.png"  />
-		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_21.png"  />
-		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_22.png"  />
-		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_23.png"
-			name=""
-			author="Despyse"  />
-		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_24.png"
-			name=""
-			author="Despyse"  />
 		<wallpaper
 			url="http://cr5315.com/FNV/wallpapers/fnv_25.png"
 			name=""
@@ -101,42 +109,10 @@
 			url="http://cr5315.com/FNV/wallpapers/fnv_27.png"
 			name="WTF"
 			author="knokfirst"  />
-		<wallpaper 
-			url="http://cr5315.com/FNV/wallpapers/fnv_28.png"
-			name="Garden Goodness"
-			author="PhilD41"  />
 		<wallpaper
 			url="http://cr5315.com/FNV/wallpapers/fnv_29.png"
 			name="WTF 2"
 			author="knokfirst"  />
-		<wallpaper
-			url="http://cr5315.com/FNV/wallpapers/fnv_30.png"
-			name="Healthy Android"
-			author="PhilD41" />
-		<wallpaper
-			url="http://cr5315.com/FNV/wallpapers/fnv_31.png"
-			name="Noise"
-			author="PhilD41" />
-		<wallpaper
-			url="http://cr5315.com/FNV/wallpapers/fnv_32.png"
-			name="Luxury FNV"
-			author="THE ALMIGHTY BANE" />
-		<wallpaper
-			url="http://cr5315.com/FNV/wallpapers/fnv_33.png"
-			name="Luxury FNV Blue"
-			author="THE ALMIGHTY BANE" />
-		<wallpaper
-			url="http://cr5315.com/FNV/wallpapers/fnv_34.png"
-			name="Bokeh"
-			author="cr5315" />
-		<wallpaper
-			url="http://cr5315.com/FNV/wallpapers/fnv_35.png"
-			name="Glass"
-			author="cr5315" />
-		<wallpaper
-			url="http://cr5315.com/FNV/wallpapers/fnv_36.png"
-			name="Neon"
-			author="cr5315" />
 		<wallpaper
 			url="http://cr5315.com/FNV/wallpapers/fnv_37.png"
 			name="Beets Dark"
@@ -145,6 +121,42 @@
 			url="http://cr5315.com/FNV/wallpapers/fnv_38.png"
 			name="Beets Light"
 			author="knokfirst" />
+	</category>
+	<category id="phild41" name="PhilD41">
+		<wallpaper 
+			url="http://cr5315.com/FNV/wallpapers/fnv_28.png"
+			name="Garden Goodness"
+			author="PhilD41"  />
+		<wallpaper
+			url="http://cr5315.com/FNV/wallpapers/fnv_30.png"
+			name="Healthy Android"
+			author="PhilD41" />
+		<wallpaper
+			url="http://cr5315.com/FNV/wallpapers/fnv_31.png"
+			name="Noise"
+			author="PhilD41" />
+	</category>
+	<category id="the almight bane" name="THE ALMIGHTY BANE">
+		<wallpaper
+			url="http://cr5315.com/FNV/wallpapers/fnv_32.png"
+			name="Luxury FNV"
+			author="THE ALMIGHTY BANE" />
+		<wallpaper
+			url="http://cr5315.com/FNV/wallpapers/fnv_33.png"
+			name="Luxury FNV Blue"
+			author="THE ALMIGHTY BANE" />
+	</category>
+	<category id="unknown" name="Unknown">
+		<wallpaper 
+			url="http://cr5315.com/FNV/wallpapers/fnv_18.png"  />
+		<wallpaper 
+			url="http://cr5315.com/FNV/wallpapers/fnv_20.png"  />
+		<wallpaper 
+			url="http://cr5315.com/FNV/wallpapers/fnv_21.png"  />
+		<wallpaper 
+			url="http://cr5315.com/FNV/wallpapers/fnv_22.png"  />
+	</category>
+	</category id="wad3" name="wad3">
 		<wallpaper
 			url="http://cr5315.com/FNV/wallpapers/fnv_39.png"
 			name="Fruits &amp; Veggies"
